@@ -28,9 +28,9 @@
         "https://*/*"
     ],
     "homepage_url": "https://www.baidu.com",
-    "chrome_url_overrides": {
-        "newtab": "newtab/index.html"
-    },
+    // "chrome_url_overrides": {
+    //     "newtab": "newtab/index.html"
+    // },
     "options_page": "options/index.html",
     "options_ui": {
         "page": "options/index.html",
